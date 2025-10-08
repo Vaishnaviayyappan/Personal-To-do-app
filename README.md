@@ -75,7 +75,7 @@ On the home page, you'll see an input field at the top
 Type your task description in the text box
 Click the "Add" button or press Enter
 📸 Screenshots
-Your task will appear in the list below<img width="1919" height="1017" alt="Screenshot 2025-10-08 124939" src="https://github.com/user-attachments/assets/41939010-ae24-4bb4-854e-7065f16c149c" />
+<img width="1919" height="1017" alt="Screenshot 2025-10-08 124939" src="https://github.com/user-attachments/assets/41939010-ae24-4bb4-854e-7065f16c149c" />
 🔮 Future Enhancements
 Here are some features planned for future versions:
 
