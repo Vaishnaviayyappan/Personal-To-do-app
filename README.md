@@ -2,17 +2,21 @@ Django To-Do List Application
 A simple, elegant web application built with Django that helps you manage your daily tasks. Add new to-do items and keep track of what needs to be done.
 
 📋 Table of Contents
+
 Features
+
 Screenshots
+
 Prerequisites
+
 Installation
+
 Usage
-Project Structure
-Technologies Used
+
 Future Enhancements
-Contributing
-License
+
 Contact
+
 ✨ Features
 
 Add Tasks: Quickly add new to-do items to your list
@@ -23,6 +27,7 @@ Responsive Design: Works well on desktop and mobile devices
 Timestamp Tracking: Automatically records when each task was created
 
 🔧 Prerequisites
+
 Before you begin, ensure you have the following installed on your system:
 
 Python 3.8 or higher - Download Python
